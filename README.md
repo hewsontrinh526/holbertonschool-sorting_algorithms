@@ -1,1 +1,4 @@
-C - Sorting Algorithms and Big O
+###C - Sorting Algorithms and Big O
+
+##### - Reference [cheat sheet]https://www.bigocheatsheet.com/
+
