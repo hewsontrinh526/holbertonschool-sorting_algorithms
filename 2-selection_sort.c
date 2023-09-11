@@ -10,13 +10,17 @@
  */
 void selection_sort(int *array, size_t size)
 {
-        size_t i;
+	size_t i;
 	size_t j;
 	size_t k;
 	int temp;
 
 	i = 0;
 
+	if (array == NULL)
+	{
+		return;
+	}
 	while (i < (size - 1))
 	{
 		k = i;
